@@ -1,0 +1,36 @@
+h1, h2, h3 {
+  color: #433a99;
+  font-size: 20px;
+  font-family: lemon;
+}
+
+body {
+  color: #433a99;
+  background-color: rgb(190, 227, 249);
+  font-family: lemon;
+  text-align: center;
+}
+
+img {
+  border-radius: 50%;
+  width: 100px;
+}
+
+a:hover{
+  background-color: #8677b7;
+  transition: 0.3s;
+  }
+
+  .container {
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 3%;
+  }
+
+  .card {
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #EAEAEA;
+    border-radius: 10px;
+    margin: 5px;
+  }
